@@ -3,8 +3,7 @@ node_modules/
 /.pnp
 .pnp.js
 
-# Production build
-dist/
+# Production build (tracked for Hostinger Git auto-deployment)
 dist-ssr/
 *.local
 
